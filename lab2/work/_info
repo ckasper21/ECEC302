@@ -1,0 +1,57 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.4c/examples
+T_opt
+!s110 1492634356
+V:EYnPfSEiGRWG7jjo]Zb51
+04 10 5 work serial_add behav 1
+=1-60e327052806-58f7caf3-376-b3c
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4c;61
+Eserial_add
+Z0 w1492634324
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dE:/ECE-C302/lab2
+Z4 8E:/ECE-C302/lab2/serial_add.vhd
+Z5 FE:/ECE-C302/lab2/serial_add.vhd
+l0
+L3
+VdGEW_H5OXDWm]l>^gJ9`Y1
+!s100 5KNjk3hmgMdOhFbhCQ5N=3
+Z6 OL;C;10.4c;61
+32
+Z7 !s110 1492634326
+!i10b 1
+Z8 !s108 1492634326.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/ECE-C302/lab2/serial_add.vhd|
+Z10 !s107 E:/ECE-C302/lab2/serial_add.vhd|
+!i113 0
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+Abehav
+R1
+R2
+DEx4 work 10 serial_add 0 22 dGEW_H5OXDWm]l>^gJ9`Y1
+l15
+L11
+V4D`Z0@>HL6YcmlQjPR3>31
+!s100 <_e8iz1]eGU4M]jfBB`o20
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12

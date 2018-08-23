@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Mon May 15 09:31:37 2017
+# Process ID: 4000
+# Current directory: D:/ECE-C302/hw2/running_led
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9700 D:\ECE-C302\hw2\running_led\running_led.xpr
+# Log file: D:/ECE-C302/hw2/running_led/vivado.log
+# Journal file: D:/ECE-C302/hw2/running_led\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/ECE-C302/hw2/running_led/running_led.xpr
+INFO: [Project 1-313] Project file moved from 'E:/ECE-C302/hw2/running_led' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2016.2/data/ip'.
+open_project: Time (s): cpu = 00:00:08 ; elapsed = 00:00:10 . Memory (MB): peak = 817.156 ; gain = 141.469
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon May 15 09:32:19 2017...

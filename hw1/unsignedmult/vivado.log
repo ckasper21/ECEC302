@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Wed May 10 15:58:02 2017
+# Process ID: 7668
+# Current directory: E:/ECE-C302/hw1/unsignedmult
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6252 E:\ECE-C302\hw1\unsignedmult\unsignedmult.xpr
+# Log file: E:/ECE-C302/hw1/unsignedmult/vivado.log
+# Journal file: E:/ECE-C302/hw1/unsignedmult\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/ECE-C302/hw1/unsignedmult/unsignedmult.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/cdc75/Desktop/Lab/hw1/unsignedmult' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2016.2/data/ip'.
+open_project: Time (s): cpu = 00:00:11 ; elapsed = 00:00:16 . Memory (MB): peak = 852.824 ; gain = 153.734
+update_compile_order -fileset sources_1

@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Tue May 30 15:27:25 2017
+# Process ID: 7720
+# Current directory: C:/Users/Chris/Desktop/ECE-C302/lab8/fifo16x4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7812 C:\Users\Chris\Desktop\ECE-C302\lab8\fifo16x4\fifo16x4.xpr
+# Log file: C:/Users/Chris/Desktop/ECE-C302/lab8/fifo16x4/vivado.log
+# Journal file: C:/Users/Chris/Desktop/ECE-C302/lab8/fifo16x4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Chris/Desktop/ECE-C302/lab8/fifo16x4/fifo16x4.xpr
+update_compile_order -fileset sources_1
+open_hw
+connect_hw_server
+open_hw_target
+set_property PROGRAM.FILE {C:/Users/Chris/Desktop/ECE-C302/lab8/fifo16x4/fifo16x4.runs/impl_1/fifo16x4.bit} [get_hw_devices xc7a35t_0]
+current_hw_device [get_hw_devices xc7a35t_0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a35t_0] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/Chris/Desktop/ECE-C302/lab8/fifo16x4/fifo16x4.runs/impl_1/fifo16x4.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]

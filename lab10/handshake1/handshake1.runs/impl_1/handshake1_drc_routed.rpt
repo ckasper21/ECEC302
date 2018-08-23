@@ -1,0 +1,41 @@
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.1 (win64) Build 1846317 Fri Apr 14 18:55:03 MDT 2017
+| Date         : Wed Jun  7 15:41:17 2017
+| Host         : DESKTOP-HQFO937 running 64-bit major release  (build 9200)
+| Command      : report_drc -file handshake1_drc_routed.rpt -pb handshake1_drc_routed.pb -rpx handshake1_drc_routed.rpx
+| Design       : handshake1
+| Device       : xc7a35tcpg236-1
+| Speed File   : -1
+| Design State : Routed
+------------------------------------------------------------------------------------------------------------------------
+
+Report DRC
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: netlist
+          Floorplan: design_1
+      Design limits: <entire design considered>
+           Ruledeck: default
+             Max violations: <unlimited>
+             Violations found: 1
++----------+----------+--------------------------------+------------+
+| Rule     | Severity | Description                    | Violations |
++----------+----------+--------------------------------+------------+
+| CFGBVS-3 | Warning  | CONFIG_VOLTAGE Design Property | 1          |
++----------+----------+--------------------------------+------------+
+
+2. REPORT DETAILS
+-----------------
+CFGBVS-3#1 Warning
+CONFIG_VOLTAGE Design Property  
+The CONFIG_VOLTAGE property is not set for current_design. To indicate what the configuration bank VCCO will be, the CONFIG_VOLTAGE property must be set to 1.5, 1.8, 2.5, or 3.3.  Refer to device configuration user guide for more information.
+Related violations: <none>
+
+

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Tue Apr 25 16:23:54 2017
+# Process ID: 1404
+# Current directory: E:/ECE-C302/prelab3/serial_adder/serial_adder.runs/impl_1
+# Command line: vivado.exe -log test_serial_adder.vdi -applog -messageDb vivado.pb -mode batch -source test_serial_adder.tcl -notrace
+# Log file: E:/ECE-C302/prelab3/serial_adder/serial_adder.runs/impl_1/test_serial_adder.vdi
+# Journal file: E:/ECE-C302/prelab3/serial_adder/serial_adder.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source test_serial_adder.tcl -notrace

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Fri May 26 01:44:22 2017
+# Process ID: 5236
+# Current directory: C:/Users/Chris/Desktop/ECE-C302/clockdivider
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8328 C:\Users\Chris\Desktop\ECE-C302\clockdivider\clockdivider.xpr
+# Log file: C:/Users/Chris/Desktop/ECE-C302/clockdivider/vivado.log
+# Journal file: C:/Users/Chris/Desktop/ECE-C302/clockdivider\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project -read_only C:/Users/Chris/Desktop/ECE-C302/clockdivider/clockdivider.xpr

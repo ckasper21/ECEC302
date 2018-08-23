@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Wed Apr 19 15:03:37 2017
+# Process ID: 9204
+# Current directory: E:/ECE-C302/registerbank/reg_v2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6328 E:\ECE-C302\registerbank\reg_v2\reg_v2.xpr
+# Log file: E:/ECE-C302/registerbank/reg_v2/vivado.log
+# Journal file: E:/ECE-C302/registerbank/reg_v2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/ECE-C302/registerbank/reg_v2/reg_v2.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/cdc75/Desktop/registerbank/reg_v2' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2016.2/data/ip'.
+open_project: Time (s): cpu = 00:00:10 ; elapsed = 00:00:13 . Memory (MB): peak = 817.012 ; gain = 142.215
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Apr 19 15:10:35 2017...

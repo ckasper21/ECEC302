@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/ECE-C302/lab4/adder project
+T_opt
+!s110 1494449111
+V@j?bkH1Y@R?6I7<S3oA061
+04 11 10 work fib_seq_gen behavioral 1
+=1-60e327052806-59137bd7-ad-1270
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4c;61
+Efib_seq_gen
+Z0 w1494449096
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dE:/ECE-C302/Midterm/fib
+Z6 8E:/ECE-C302/Midterm/fib/fib_seq_gen.vhd
+Z7 FE:/ECE-C302/Midterm/fib/fib_seq_gen.vhd
+l0
+L6
+VXhgF@OXO:nB684Teb:V]E1
+!s100 S2F=Bi85JIMoh<?2CAC?H3
+Z8 OL;C;10.4c;61
+32
+Z9 !s110 1494449098
+!i10b 1
+Z10 !s108 1494449097.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/ECE-C302/Midterm/fib/fib_seq_gen.vhd|
+Z12 !s107 E:/ECE-C302/Midterm/fib/fib_seq_gen.vhd|
+!i113 0
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 11 fib_seq_gen 0 22 XhgF@OXO:nB684Teb:V]E1
+l15
+L12
+VaQ[DHZA_6OloUQgdlUTKi2
+!s100 ;32mDO;RN>2nidFzVSJFl0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14

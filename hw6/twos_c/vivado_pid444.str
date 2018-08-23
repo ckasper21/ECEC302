@@ -1,0 +1,86 @@
+/*
+
+Vivado v2016.2 (64-bit)
+SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+Process ID: 444
+
+Current time: 	5/15/17 3:47:09 PM EDT
+Time zone: 	Eastern Standard Time (America/New_York)
+
+OS: Windows 7
+Version: 6.1
+Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1920x1080
+Screen resolution (DPI): 96
+Available screens: 1
+Default font: family=Tahoma,name=Tahoma,style=plain,size=11
+
+Java version: 	1.8.0_66 64-bit
+Java home: 	C:/Xilinx/Vivado/2016.2/tps/win64/jre
+
+User name: 	cdc75
+User home directory: C:/Users/cdc75.DREXEL
+User working directory: D:/ECE-C302/hw6/twos_c
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI Base root directory: C:/Xilinx/Vivado
+RDI Data directory: C:/Xilinx/Vivado/2016.2/data
+RDI Bin directory: C:/Xilinx/Vivado/2016.2/bin
+
+Vivado preferences path: C:/Users/cdc75.DREXEL/AppData/Roaming/Xilinx/Vivado/2016.2/vivado.ini
+Vivado layouts directory: C:/Users/cdc75.DREXEL/AppData/Roaming/Xilinx/Vivado/2016.2/layouts
+
+GUI allocated memory:	207 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 517 MB
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// bL:g (cv:JFrame):  Open Project : addNotify
+// Opening Vivado Project: D:\ECE-C302\hw6\twos_c\twos_c.xpr. Version: Vivado v2016.2 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project D:/ECE-C302/hw6/twos_c/twos_c.xpr 
+// TclEventType: MSGMGR_MOVEMSG
+// [GUI Memory]: 37 MB (+36050kb) [00:00:03]
+// [Engine Memory]: 434 MB (+303254kb) [00:00:03]
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project D:/ECE-C302/hw6/twos_c/twos_c.xpr 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// TclEventType: PROJECT_NEW
+// [Engine Memory]: 497 MB (+43850kb) [00:00:04]
+// [GUI Memory]: 49 MB (+10760kb) [00:00:05]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2016.2/data/ip'. 
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [Engine Memory]: 534 MB (+12753kb) [00:00:06]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// HMemoryUtils.trashcanNow. Engine heap size: 534 MB. GUI used memory: 31 MB. Current time: 5/15/17 3:47:10 PM EDT
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Project name: twos_c; location: D:/ECE-C302/hw6/twos_c; part: xc7a35tcpg236-1
+// Tcl Message: open_project: Time (s): cpu = 00:00:09 ; elapsed = 00:00:09 . Memory (MB): peak = 824.320 ; gain = 133.660 
+dismissDialog("Open Project"); // bL:g (cv:JFrame)
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// Tcl Message: update_compile_order -fileset sources_1 
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, twos_c - Behavioral (twos_c.vhd)]", 1, false); // z:k (G:JPanel, cv:JFrame)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, twos_c - Behavioral (twos_c.vhd)]", 1, false, false, false, false, false, true); // z:k (G:JPanel, cv:JFrame) - Double Click
+// [GUI Memory]: 53 MB (+1580kb) [00:00:54]
+// [GUI Memory]: 56 MB (+225kb) [00:06:27]
+// [GUI Memory]: 59 MB (+530kb) [00:10:06]
+// [GUI Memory]: 63 MB (+702kb) [00:14:06]
+// [GUI Memory]: 67 MB (+725kb) [00:18:18]
+// [GUI Memory]: 70 MB (+172kb) [00:23:16]

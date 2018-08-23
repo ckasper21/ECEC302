@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Wed Apr 19 16:45:39 2017
+# Process ID: 8468
+# Current directory: E:/ECE-C302/registerbank/reg_v1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6216 E:\ECE-C302\registerbank\reg_v1\reg_v1.xpr
+# Log file: E:/ECE-C302/registerbank/reg_v1/vivado.log
+# Journal file: E:/ECE-C302/registerbank/reg_v1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/ECE-C302/registerbank/reg_v1/reg_v1.xpr
+update_compile_order -fileset sources_1

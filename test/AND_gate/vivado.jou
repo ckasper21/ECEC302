@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Mon Apr 24 11:49:09 2017
+# Process ID: 3348
+# Current directory: D:/ECE-C302/test/AND_gate
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8860 D:\ECE-C302\test\AND_gate\AND_gate.xpr
+# Log file: D:/ECE-C302/test/AND_gate/vivado.log
+# Journal file: D:/ECE-C302/test/AND_gate\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/ECE-C302/test/AND_gate/AND_gate.xpr
+update_compile_order -fileset sources_1

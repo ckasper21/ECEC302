@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Tue Apr 25 15:27:45 2017
+# Process ID: 5648
+# Current directory: E:/ECE-C302/hw3/OR_gate
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10492 E:\ECE-C302\hw3\OR_gate\OR_gate.xpr
+# Log file: E:/ECE-C302/hw3/OR_gate/vivado.log
+# Journal file: E:/ECE-C302/hw3/OR_gate\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/ECE-C302/hw3/OR_gate/OR_gate.xpr
+update_compile_order -fileset sources_1
+open_hw
+connect_hw_server
+open_hw_target
+set_property PROGRAM.FILE {E:/ECE-C302/hw3/OR_gate/OR_gate.runs/impl_1/OR_gate_test.bit} [lindex [get_hw_devices] 0]
+current_hw_device [lindex [get_hw_devices] 0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices] 0]
+set_property PROBES.FILE {} [lindex [get_hw_devices] 0]
+set_property PROGRAM.FILE {E:/ECE-C302/hw3/OR_gate/OR_gate.runs/impl_1/OR_gate_test.bit} [lindex [get_hw_devices] 0]
+program_hw_devices [lindex [get_hw_devices] 0]
+refresh_hw_device [lindex [get_hw_devices] 0]
+close_hw

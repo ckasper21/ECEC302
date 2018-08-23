@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<!--The data in this file is primarily intended for consumption by Xilinx tools.
+The structure and the elements are likely to change over the next few releases.
+This means code written to parse this file will need to be revisited each subsequent release.-->
+<application name="pa" timeStamp="Tue Apr 25 16:01:10 2017">
+<section name="Project Information" visible="false">
+<property name="ProjectID" value="c94cef2f4b314507bd8c030dcfd6d256" type="ProjectID"/>
+<property name="ProjectIteration" value="3" type="ProjectIteration"/>
+</section>
+<section name="PlanAhead Usage" visible="true">
+<item name="Project Data">
+<property name="SrcSetCount" value="1" type="SrcSetCount"/>
+<property name="ConstraintSetCount" value="1" type="ConstraintSetCount"/>
+<property name="DesignMode" value="RTL" type="DesignMode"/>
+<property name="SynthesisStrategy" value="Vivado Synthesis Defaults" type="SynthesisStrategy"/>
+<property name="ImplStrategy" value="Vivado Implementation Defaults" type="ImplStrategy"/>
+</item>
+<item name="Java Command Handlers">
+<property name="AddSources" value="8" type="JavaHandler"/>
+<property name="AutoConnectTarget" value="2" type="JavaHandler"/>
+<property name="CloseProject" value="1" type="JavaHandler"/>
+<property name="LaunchProgramFpga" value="2" type="JavaHandler"/>
+<property name="NewProject" value="2" type="JavaHandler"/>
+<property name="OpenHardwareManager" value="2" type="JavaHandler"/>
+<property name="ProjectSettingsCmdHandler" value="1" type="JavaHandler"/>
+<property name="RunBitgen" value="1" type="JavaHandler"/>
+<property name="RunImplementation" value="1" type="JavaHandler"/>
+<property name="RunSynthesis" value="1" type="JavaHandler"/>
+</item>
+<item name="Gui Resources Info">
+<property name="APPLY, Apply" value="1" type="GuiResourceData"/>
+<property name="CANCEL, Cancel" value="1" type="GuiResourceData"/>
+<property name="FINISH, Finish" value="4" type="GuiResourceData"/>
+<property name="NEXT, Next " value="8" type="GuiResourceData"/>
+<property name="OK, OK" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, add3bits" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, serial_adder" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, test_serial_adder" value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_ADD_SOURCES, Sources_add_sources" value="4" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_GENERAL_SETTINGS, Verilog" value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_NEW_PROJECT, New Project..." value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Constraints], 2" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, mux3 - struct (mux3.vhd" value="4" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, serial_adder - Behavioral (serial_adder.vhd" value="5" type="GuiResourceData"/>
+<property name="PAResourceItoN.MainMenuMgr_EDIT, Edit" value="2" type="GuiResourceData"/>
+<property name="PAResourceItoN.MainMenuMgr_FILE, File" value="4" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PartChooser_PARTS, xc7a35tcpg236-1 ; 236 ; 50 ; 90 ; 41600 ; 2 ; 2 ; 106 ; 20800 ; 5 ; 1 ; 85 ; 0 ; 85 ; C ; 1.05 ; 0.95 ; 0.95 ; 0 ; 0 ; 0 ; 0 ; 0 ; 0 ; 0 ; 0, 6, xc7a35tcpg236-1, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.ProjectNameChooser_CHOOSE_PROJECT_LOCATION, (String" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.ProjectNameChooser_PROJECT_NAME, serial_add" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.ProjectNameChooser_PROJECT_NAME, serial_adder" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.ProjectSettingsGeneralPage_TARGET_LANGUAGE, VHDL, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcChooserPanel_ADD_HDL_AND_NETLIST_FILES_TO_YOUR_PROJECT, Add Files" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcChooserPanel_CREATE_FILE, Create File" value="4" type="GuiResourceData"/>
+<property name="RDIResource.BaseDialog_CANCEL, Cancel" value="1" type="GuiResourceData"/>
+<property name="RDIResource.BaseDialog_OK, OK" value="7" type="GuiResourceData"/>
+<property name="RDIResourceCommand.RDICommands_SAVE_FILE, (String" value="2" type="GuiResourceData"/>
+<property name="add3bits.vhd, 112, 474" value="1" type="GuiResourceData"/>
+<property name="add3bits.vhd, 113, 515" value="1" type="GuiResourceData"/>
+<property name="add3bits.vhd, 123, 486" value="1" type="GuiResourceData"/>
+<property name="add3bits.vhd, 128, 478" value="1" type="GuiResourceData"/>
+<property name="add3bits.vhd, 145, 503" value="1" type="GuiResourceData"/>
+<property name="add3bits.vhd, 147, 503" value="1" type="GuiResourceData"/>
+<property name="add3bits.vhd, 176, 519" value="1" type="GuiResourceData"/>
+<property name="add3bits.vhd, 2, 484" value="1" type="GuiResourceData"/>
+<property name="add3bits.vhd, 218, 132" value="1" type="GuiResourceData"/>
+<property name="add3bits.vhd, 234, 423" value="1" type="GuiResourceData"/>
+<property name="add3bits.vhd, 46, 390" value="1" type="GuiResourceData"/>
+<property name="add3bits.vhd, 5, 484" value="1" type="GuiResourceData"/>
+<property name="add3bits.vhd, 52, 393" value="1" type="GuiResourceData"/>
+<property name="add3bits.vhd, 53, 486" value="1" type="GuiResourceData"/>
+<property name="add3bits.vhd, 69, 482" value="1" type="GuiResourceData"/>
+<property name="add3bits.vhd, 74, 500" value="1" type="GuiResourceData"/>
+<property name="add3bits.vhd, 83, 498" value="1" type="GuiResourceData"/>
+<property name="add3bits.vhd, 96, 315" value="1" type="GuiResourceData"/>
+<property name="mux.vhd, 159, 387" value="1" type="GuiResourceData"/>
+<property name="serial_adder.vhd, 110, 212" value="1" type="GuiResourceData"/>
+<property name="serial_adder.vhd, 177, 463" value="1" type="GuiResourceData"/>
+<property name="serial_adder.vhd, 232, 319" value="1" type="GuiResourceData"/>
+<property name="serial_adder.vhd, 35, 341" value="1" type="GuiResourceData"/>
+<property name="serial_adder.vhd, 35, 488" value="1" type="GuiResourceData"/>
+<property name="serial_adder.vhd, 39, 184" value="1" type="GuiResourceData"/>
+<property name="serial_adder.vhd, 66, 321" value="1" type="GuiResourceData"/>
+<property name="serial_adder.vhd, 99, 489" value="1" type="GuiResourceData"/>
+</item>
+<item name="Other">
+<property name="GuiMode" value="5" type="GuiMode"/>
+<property name="BatchMode" value="0" type="BatchMode"/>
+<property name="TclMode" value="3" type="TclMode"/>
+</item>
+</section>
+</application>
+</document>
